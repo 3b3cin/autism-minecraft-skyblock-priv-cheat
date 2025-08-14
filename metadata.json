@@ -1,0 +1,12 @@
+{
+    "name": "AutismClient",
+    "creator": "ExileWeirdo",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "description": "Autism forever",
+    "requires": [
+        "Amaterasu",
+		"BloomCore",
+		"RenderLibV2"
+    ]
+}

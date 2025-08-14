@@ -1,0 +1,146 @@
+[
+    {
+        "category": "AutoP3",
+        "settings": [
+            {
+                "type": 6,
+                "name": "blink",
+                "value": true
+            },
+            {
+                "type": 2,
+                "name": "movePacketCounter"
+            },
+            {
+                "type": 6,
+                "name": "autop3",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "autop3InfinityBoom",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "editMode",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "autoSave",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "route",
+                "value": "tank"
+            },
+            {
+                "type": 6,
+                "name": "renderRings",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "startOnBoss",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "routeP3On",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "routeP3",
+                "value": "BlinkH"
+            }
+        ]
+    },
+    {
+        "category": "Dungeons",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autoroutes",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "zeropingetherwarp",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "autoroutesInfinityBoom",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "autoroutesWeapon",
+                "value": "Hyperion"
+            },
+            {
+                "type": 6,
+                "name": "editModeAutoRoutes",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "autoSaveAutoRoutes",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "autoRefillPearls",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "autoEquip",
+                "value": true
+            }
+        ]
+    },
+    {
+        "category": "Clip",
+        "settings": [
+            {
+                "type": 10,
+                "name": "hclipKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "lavaVclipKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "blockClipKeybind",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "category": "Debug",
+        "settings": [
+            {
+                "type": 6,
+                "name": "simulateSpeed",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "simulateLavaBounce",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "singleplayerEtherwarp",
+                "value": true
+            }
+        ]
+    }
+]
