@@ -34,11 +34,11 @@ Built for **Phase 3 dungeon mechanics**, it streamlines gameplay while remaining
 
 ## 📦 Installation
 
-1. Obtain the `.jar` from the **official leak source by Fob**.  
-2. Drop it into your `mods` folder.  
-3. Launch Minecraft with the correct Forge/Fabric profile.  
-4. Adjust settings with `/p3config` in-game.
-
+install chat triggers
+put the mod in your modules folder 
+in hypixle reload the modules from chat triggers
+and type /auc 
+and boom best auto p3 in the whole wide world
 ---
 
 ## ⚠️ Disclaimer
